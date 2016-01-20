@@ -1,0 +1,6 @@
+name: Docker Cleanup 
+description: |
+  Automatic cleanup of unused images on hosts, in order to save disk space.
+version: v1.4.0
+category: monitoring
+maintainer: Domingo Kiser 
